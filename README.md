@@ -1,2 +1,2 @@
-# code-that-closes-the-program-when-stranger-come
-will be added soon
+# Stranger Protector
+code that closes the program when stranger come
