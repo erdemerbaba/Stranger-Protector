@@ -1,2 +1,1 @@
-# Stranger Protector
-code that closes the program when stranger come
+Code that closes the program when stranger come
